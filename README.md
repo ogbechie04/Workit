@@ -51,4 +51,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Special shoutout to Tamuno Obi for assisting me with this project.
+Special shoutout to [Tamuno Obi](https://github.com/ObiTam) for assisting me with this project.
